@@ -81,7 +81,7 @@
 	],
 	"label": "Graph",
 	"longdesc": "",
-	"name": "@@1964",
+	"name": "1964",
 	"node_position": {
 		"x": 0,
 		"y": 0
@@ -107,7 +107,7 @@
 				"ao": 1,
 				"depth_scale": 0.5,
 				"emission_energy": 1,
-				"flags_transparent": true,
+				"flags_transparent": false,
 				"metallic": 0,
 				"normal": 1,
 				"roughness": 1,
